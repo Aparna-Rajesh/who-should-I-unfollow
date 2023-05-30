@@ -18,7 +18,7 @@ This script, like so many great software solutions, is a product of laziness and
 8. Change the "Media quality" to "Low"
 9. Submit the request
 10. In a few days, check the "Request a download" tab again and you'll have the option to download a zip file with all of the data that you requested. 
-11. Unzip the file and copy the two json files with the information about the accounts that you follow and the accounts that follow you into the folder with the "who_to_remove.py" and "name_of_files.txt" files from this repo. 
+11. Unzip the file and copy the two json files with the information about the accounts that you follow and the accounts that follow you into the folder with the `who_to_remove.py` and `name_of_files.txt` files from this repo. 
 12. Go into `name_of_files.txt` and replace the **1st line** with the name of the json file that includes the accounts that you follow and **4th line** with the name of the json file that includes the accounts that follow you. 
     - DO include the .json at the end of the file names 
 
