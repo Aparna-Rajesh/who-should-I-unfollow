@@ -1,0 +1,5 @@
+following.json
+^ name of the json file with the accounts that you follow above (in line 1)
+
+followers_1.json
+^ name of the json file with the accounts that follow you above (in line 4)
