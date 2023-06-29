@@ -5,9 +5,9 @@ follower_doc = ""
 
 with open('name_of_files.txt', 'r') as fp:
     for i, ln in enumerate(fp):
-        if i == 1:
+        if i == 0:
             following_doc = ln[0:len(ln) - 1]
-        elif i == 5:
+        elif i == 3:
             follower_doc = ln[0:len(ln) - 1]
 
 # print(follower_doc)
