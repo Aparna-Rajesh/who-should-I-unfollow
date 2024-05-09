@@ -25,3 +25,4 @@ This script, like so many great software solutions, is a product of laziness and
     - DO NOT add any spaces after the titles
     - DO NOT add any extra lines anywhere 
     - DO NOT add any extra punctuation in the file names
+13. Run `who_to_remove.py`, and the list of accounts that you follow and don't follow you back will be printed on your terminal!
